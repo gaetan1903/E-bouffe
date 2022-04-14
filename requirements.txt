@@ -1,2 +1,1 @@
-# Ampalibe dev
-https://github.com/iTeam-S/Ampalibe/archive/refs/heads/main.zip
+ampalibe
